@@ -1,0 +1,159 @@
+C:\Users\Diogo Amorim\Desktop\Monopoly - Cópia - Cópia\Monopoly\bin\Debug\Monopoly.exe.config
+C:\Users\Diogo Amorim\Desktop\Monopoly - Cópia - Cópia\Monopoly\bin\Debug\Monopoly.exe
+C:\Users\Diogo Amorim\Desktop\Monopoly - Cópia - Cópia\Monopoly\bin\Debug\Monopoly.pdb
+C:\Users\Diogo Amorim\Desktop\Monopoly - Cópia - Cópia\Monopoly\obj\Debug\Monopoly.csprojResolveAssemblyReference.cache
+C:\Users\Diogo Amorim\Desktop\Monopoly - Cópia - Cópia\Monopoly\obj\Debug\Monopoly.Construir.resources
+C:\Users\Diogo Amorim\Desktop\Monopoly - Cópia - Cópia\Monopoly\obj\Debug\Monopoly.FimJogo.resources
+C:\Users\Diogo Amorim\Desktop\Monopoly - Cópia - Cópia\Monopoly\obj\Debug\Monopoly.Jogo.resources
+C:\Users\Diogo Amorim\Desktop\Monopoly - Cópia - Cópia\Monopoly\obj\Debug\Monopoly.Menu.resources
+C:\Users\Diogo Amorim\Desktop\Monopoly - Cópia - Cópia\Monopoly\obj\Debug\Monopoly.novoJogo.resources
+C:\Users\Diogo Amorim\Desktop\Monopoly - Cópia - Cópia\Monopoly\obj\Debug\Monopoly.Properties.Resources.resources
+C:\Users\Diogo Amorim\Desktop\Monopoly - Cópia - Cópia\Monopoly\obj\Debug\Monopoly.Setup.resources
+C:\Users\Diogo Amorim\Desktop\Monopoly - Cópia - Cópia\Monopoly\obj\Debug\Monopoly.csproj.GenerateResource.Cache
+C:\Users\Diogo Amorim\Desktop\Monopoly - Cópia - Cópia\Monopoly\obj\Debug\Monopoly.exe
+C:\Users\Diogo Amorim\Desktop\Monopoly - Cópia - Cópia\Monopoly\obj\Debug\Monopoly.pdb
+C:\Users\André Castro\Downloads\Monopoly - Cópia - Cópia\Monopoly - Cópia - Cópia\Monopoly\bin\Debug\Monopoly.exe.config
+C:\Users\André Castro\Downloads\Monopoly - Cópia - Cópia\Monopoly - Cópia - Cópia\Monopoly\bin\Debug\Monopoly.exe
+C:\Users\André Castro\Downloads\Monopoly - Cópia - Cópia\Monopoly - Cópia - Cópia\Monopoly\bin\Debug\Monopoly.pdb
+C:\Users\André Castro\Downloads\Monopoly - Cópia - Cópia\Monopoly - Cópia - Cópia\Monopoly\obj\Debug\Monopoly.csprojResolveAssemblyReference.cache
+C:\Users\André Castro\Downloads\Monopoly - Cópia - Cópia\Monopoly - Cópia - Cópia\Monopoly\obj\Debug\Monopoly.Construir.resources
+C:\Users\André Castro\Downloads\Monopoly - Cópia - Cópia\Monopoly - Cópia - Cópia\Monopoly\obj\Debug\Monopoly.FimJogo.resources
+C:\Users\André Castro\Downloads\Monopoly - Cópia - Cópia\Monopoly - Cópia - Cópia\Monopoly\obj\Debug\Monopoly.Jogo.resources
+C:\Users\André Castro\Downloads\Monopoly - Cópia - Cópia\Monopoly - Cópia - Cópia\Monopoly\obj\Debug\Monopoly.Menu.resources
+C:\Users\André Castro\Downloads\Monopoly - Cópia - Cópia\Monopoly - Cópia - Cópia\Monopoly\obj\Debug\Monopoly.novoJogo.resources
+C:\Users\André Castro\Downloads\Monopoly - Cópia - Cópia\Monopoly - Cópia - Cópia\Monopoly\obj\Debug\Monopoly.Properties.Resources.resources
+C:\Users\André Castro\Downloads\Monopoly - Cópia - Cópia\Monopoly - Cópia - Cópia\Monopoly\obj\Debug\Monopoly.Setup.resources
+C:\Users\André Castro\Downloads\Monopoly - Cópia - Cópia\Monopoly - Cópia - Cópia\Monopoly\obj\Debug\Monopoly.csproj.GenerateResource.Cache
+C:\Users\André Castro\Downloads\Monopoly - Cópia - Cópia\Monopoly - Cópia - Cópia\Monopoly\obj\Debug\Monopoly.csproj.CoreCompileInputs.cache
+C:\Users\André Castro\Downloads\Monopoly - Cópia - Cópia\Monopoly - Cópia - Cópia\Monopoly\obj\Debug\Monopoly.exe
+C:\Users\André Castro\Downloads\Monopoly - Cópia - Cópia\Monopoly - Cópia - Cópia\Monopoly\obj\Debug\Monopoly.pdb
+C:\Users\André Castro\Downloads\Monopoly - Cópia - Cópia\Monopoly - Cópia - Cópia\Monopoly\obj\Debug\Monopoly.Trocar.resources
+C:\Users\Diogo Amorim\Desktop\work\Monopoly - Cópia - Cópia\Monopoly\bin\Debug\Monopoly.exe.config
+C:\Users\Diogo Amorim\Desktop\work\Monopoly - Cópia - Cópia\Monopoly\bin\Debug\Monopoly.exe
+C:\Users\Diogo Amorim\Desktop\work\Monopoly - Cópia - Cópia\Monopoly\bin\Debug\Monopoly.pdb
+C:\Users\Diogo Amorim\Desktop\work\Monopoly - Cópia - Cópia\Monopoly\obj\Debug\Monopoly.csprojResolveAssemblyReference.cache
+C:\Users\Diogo Amorim\Desktop\work\Monopoly - Cópia - Cópia\Monopoly\obj\Debug\Monopoly.Construir.resources
+C:\Users\Diogo Amorim\Desktop\work\Monopoly - Cópia - Cópia\Monopoly\obj\Debug\Monopoly.FimJogo.resources
+C:\Users\Diogo Amorim\Desktop\work\Monopoly - Cópia - Cópia\Monopoly\obj\Debug\Monopoly.Jogo.resources
+C:\Users\Diogo Amorim\Desktop\work\Monopoly - Cópia - Cópia\Monopoly\obj\Debug\Monopoly.Menu.resources
+C:\Users\Diogo Amorim\Desktop\work\Monopoly - Cópia - Cópia\Monopoly\obj\Debug\Monopoly.novoJogo.resources
+C:\Users\Diogo Amorim\Desktop\work\Monopoly - Cópia - Cópia\Monopoly\obj\Debug\Monopoly.Properties.Resources.resources
+C:\Users\Diogo Amorim\Desktop\work\Monopoly - Cópia - Cópia\Monopoly\obj\Debug\Monopoly.Setup.resources
+C:\Users\Diogo Amorim\Desktop\work\Monopoly - Cópia - Cópia\Monopoly\obj\Debug\Monopoly.Trocar.resources
+C:\Users\Diogo Amorim\Desktop\work\Monopoly - Cópia - Cópia\Monopoly\obj\Debug\Monopoly.csproj.GenerateResource.Cache
+C:\Users\Diogo Amorim\Desktop\work\Monopoly - Cópia - Cópia\Monopoly\obj\Debug\Monopoly.exe
+C:\Users\Diogo Amorim\Desktop\work\Monopoly - Cópia - Cópia\Monopoly\obj\Debug\Monopoly.pdb
+C:\Users\André Castro\Downloads\work\work\Monopoly - Cópia - Cópia\Monopoly\obj\Debug\Monopoly.csprojResolveAssemblyReference.cache
+C:\Users\André Castro\Downloads\work\work\Monopoly - Cópia - Cópia\Monopoly\obj\Debug\Monopoly.Construir.resources
+C:\Users\André Castro\Downloads\work\work\Monopoly - Cópia - Cópia\Monopoly\obj\Debug\Monopoly.FimJogo.resources
+C:\Users\André Castro\Downloads\work\work\Monopoly - Cópia - Cópia\Monopoly\obj\Debug\Monopoly.Jogo.resources
+C:\Users\André Castro\Downloads\work\work\Monopoly - Cópia - Cópia\Monopoly\obj\Debug\Monopoly.Menu.resources
+C:\Users\André Castro\Downloads\work\work\Monopoly - Cópia - Cópia\Monopoly\obj\Debug\Monopoly.Properties.Resources.resources
+C:\Users\André Castro\Downloads\work\work\Monopoly - Cópia - Cópia\Monopoly\obj\Debug\Monopoly.Setup.resources
+C:\Users\André Castro\Downloads\work\work\Monopoly - Cópia - Cópia\Monopoly\obj\Debug\Monopoly.Trocar.resources
+C:\Users\André Castro\Downloads\work\work\Monopoly - Cópia - Cópia\Monopoly\obj\Debug\Monopoly.csproj.GenerateResource.Cache
+C:\Users\André Castro\Downloads\work\work\Monopoly - Cópia - Cópia\Monopoly\obj\Debug\Monopoly.csproj.CoreCompileInputs.cache
+C:\Users\André Castro\Downloads\work\work\Monopoly - Cópia - Cópia\Monopoly\obj\Debug\Monopoly.exe
+C:\Users\André Castro\Downloads\work\work\Monopoly - Cópia - Cópia\Monopoly\obj\Debug\Monopoly.pdb
+C:\Users\André Castro\Downloads\work\work\Monopoly - Cópia - Cópia\Monopoly\bin\Debug\Monopoly.exe.config
+C:\Users\André Castro\Downloads\work\work\Monopoly - Cópia - Cópia\Monopoly\bin\Debug\Monopoly.exe
+C:\Users\André Castro\Downloads\work\work\Monopoly - Cópia - Cópia\Monopoly\bin\Debug\Monopoly.pdb
+C:\Users\André Castro\Downloads\work\work\Monopoly - Cópia - Cópia\Monopoly\obj\Debug\Monopoly.MostrarCartasSorte.resources
+C:\Users\André Castro\Downloads\work\work\Monopoly - Cópia - Cópia\Monopoly\obj\Debug\Monopoly.Mensagem.resources
+C:\Users\Diogo Amorim\Desktop\FINAAAAALLL\Monopoly - Cópia - Cópia\Monopoly\bin\Debug\Monopoly.exe.config
+C:\Users\Diogo Amorim\Desktop\FINAAAAALLL\Monopoly - Cópia - Cópia\Monopoly\bin\Debug\Monopoly.exe
+C:\Users\Diogo Amorim\Desktop\FINAAAAALLL\Monopoly - Cópia - Cópia\Monopoly\bin\Debug\Monopoly.pdb
+C:\Users\Diogo Amorim\Desktop\FINAAAAALLL\Monopoly - Cópia - Cópia\Monopoly\obj\Debug\Monopoly.csprojResolveAssemblyReference.cache
+C:\Users\Diogo Amorim\Desktop\FINAAAAALLL\Monopoly - Cópia - Cópia\Monopoly\obj\Debug\Monopoly.Construir.resources
+C:\Users\Diogo Amorim\Desktop\FINAAAAALLL\Monopoly - Cópia - Cópia\Monopoly\obj\Debug\Monopoly.FimJogo.resources
+C:\Users\Diogo Amorim\Desktop\FINAAAAALLL\Monopoly - Cópia - Cópia\Monopoly\obj\Debug\Monopoly.Jogo.resources
+C:\Users\Diogo Amorim\Desktop\FINAAAAALLL\Monopoly - Cópia - Cópia\Monopoly\obj\Debug\Monopoly.Mensagem.resources
+C:\Users\Diogo Amorim\Desktop\FINAAAAALLL\Monopoly - Cópia - Cópia\Monopoly\obj\Debug\Monopoly.Menu.resources
+C:\Users\Diogo Amorim\Desktop\FINAAAAALLL\Monopoly - Cópia - Cópia\Monopoly\obj\Debug\Monopoly.MostrarCartasSorte.resources
+C:\Users\Diogo Amorim\Desktop\FINAAAAALLL\Monopoly - Cópia - Cópia\Monopoly\obj\Debug\Monopoly.Properties.Resources.resources
+C:\Users\Diogo Amorim\Desktop\FINAAAAALLL\Monopoly - Cópia - Cópia\Monopoly\obj\Debug\Monopoly.Setup.resources
+C:\Users\Diogo Amorim\Desktop\FINAAAAALLL\Monopoly - Cópia - Cópia\Monopoly\obj\Debug\Monopoly.Trocar.resources
+C:\Users\Diogo Amorim\Desktop\FINAAAAALLL\Monopoly - Cópia - Cópia\Monopoly\obj\Debug\Monopoly.csproj.GenerateResource.Cache
+C:\Users\Diogo Amorim\Desktop\FINAAAAALLL\Monopoly - Cópia - Cópia\Monopoly\obj\Debug\Monopoly.exe
+C:\Users\Diogo Amorim\Desktop\FINAAAAALLL\Monopoly - Cópia - Cópia\Monopoly\obj\Debug\Monopoly.pdb
+C:\Users\Diogo Amorim\Desktop\Monopoly\Monopoly\bin\Debug\Monopoly.exe.config
+C:\Users\Diogo Amorim\Desktop\Monopoly\Monopoly\bin\Debug\Monopoly.exe
+C:\Users\Diogo Amorim\Desktop\Monopoly\Monopoly\bin\Debug\Monopoly.pdb
+C:\Users\Diogo Amorim\Desktop\Monopoly\Monopoly\obj\Debug\Monopoly.csprojResolveAssemblyReference.cache
+C:\Users\Diogo Amorim\Desktop\Monopoly\Monopoly\obj\Debug\Monopoly.Construir.resources
+C:\Users\Diogo Amorim\Desktop\Monopoly\Monopoly\obj\Debug\Monopoly.FimJogo.resources
+C:\Users\Diogo Amorim\Desktop\Monopoly\Monopoly\obj\Debug\Monopoly.Jogo.resources
+C:\Users\Diogo Amorim\Desktop\Monopoly\Monopoly\obj\Debug\Monopoly.Mensagem.resources
+C:\Users\Diogo Amorim\Desktop\Monopoly\Monopoly\obj\Debug\Monopoly.Menu.resources
+C:\Users\Diogo Amorim\Desktop\Monopoly\Monopoly\obj\Debug\Monopoly.MostrarCartasSorte.resources
+C:\Users\Diogo Amorim\Desktop\Monopoly\Monopoly\obj\Debug\Monopoly.Properties.Resources.resources
+C:\Users\Diogo Amorim\Desktop\Monopoly\Monopoly\obj\Debug\Monopoly.Setup.resources
+C:\Users\Diogo Amorim\Desktop\Monopoly\Monopoly\obj\Debug\Monopoly.Trocar.resources
+C:\Users\Diogo Amorim\Desktop\Monopoly\Monopoly\obj\Debug\Monopoly.csproj.GenerateResource.Cache
+C:\Users\Diogo Amorim\Desktop\Monopoly\Monopoly\obj\Debug\Monopoly.exe
+C:\Users\Diogo Amorim\Desktop\Monopoly\Monopoly\obj\Debug\Monopoly.pdb
+C:\Users\André Castro\Downloads\Monopoly (1)\Monopoly\Monopoly\bin\Debug\Monopoly.exe.config
+C:\Users\André Castro\Downloads\Monopoly (1)\Monopoly\Monopoly\bin\Debug\Monopoly.exe
+C:\Users\André Castro\Downloads\Monopoly (1)\Monopoly\Monopoly\bin\Debug\Monopoly.pdb
+C:\Users\André Castro\Downloads\Monopoly (1)\Monopoly\Monopoly\obj\Debug\Monopoly.csprojResolveAssemblyReference.cache
+C:\Users\André Castro\Downloads\Monopoly (1)\Monopoly\Monopoly\obj\Debug\Monopoly.Construir.resources
+C:\Users\André Castro\Downloads\Monopoly (1)\Monopoly\Monopoly\obj\Debug\Monopoly.FimJogo.resources
+C:\Users\André Castro\Downloads\Monopoly (1)\Monopoly\Monopoly\obj\Debug\Monopoly.Jogo.resources
+C:\Users\André Castro\Downloads\Monopoly (1)\Monopoly\Monopoly\obj\Debug\Monopoly.Mensagem.resources
+C:\Users\André Castro\Downloads\Monopoly (1)\Monopoly\Monopoly\obj\Debug\Monopoly.Menu.resources
+C:\Users\André Castro\Downloads\Monopoly (1)\Monopoly\Monopoly\obj\Debug\Monopoly.MostrarCartasSorte.resources
+C:\Users\André Castro\Downloads\Monopoly (1)\Monopoly\Monopoly\obj\Debug\Monopoly.Properties.Resources.resources
+C:\Users\André Castro\Downloads\Monopoly (1)\Monopoly\Monopoly\obj\Debug\Monopoly.Setup.resources
+C:\Users\André Castro\Downloads\Monopoly (1)\Monopoly\Monopoly\obj\Debug\Monopoly.Trocar.resources
+C:\Users\André Castro\Downloads\Monopoly (1)\Monopoly\Monopoly\obj\Debug\Monopoly.csproj.GenerateResource.Cache
+C:\Users\André Castro\Downloads\Monopoly (1)\Monopoly\Monopoly\obj\Debug\Monopoly.csproj.CoreCompileInputs.cache
+C:\Users\André Castro\Downloads\Monopoly (1)\Monopoly\Monopoly\obj\Debug\Monopoly.exe
+C:\Users\André Castro\Downloads\Monopoly (1)\Monopoly\Monopoly\obj\Debug\Monopoly.pdb
+C:\Users\Diogo Amorim\Desktop\Monopoly (2)\Monopoly\Monopoly\bin\Debug\Monopoly.exe.config
+C:\Users\Diogo Amorim\Desktop\Monopoly (2)\Monopoly\Monopoly\bin\Debug\Monopoly.exe
+C:\Users\Diogo Amorim\Desktop\Monopoly (2)\Monopoly\Monopoly\bin\Debug\Monopoly.pdb
+C:\Users\Diogo Amorim\Desktop\Monopoly (2)\Monopoly\Monopoly\obj\Debug\Monopoly.csprojResolveAssemblyReference.cache
+C:\Users\Diogo Amorim\Desktop\Monopoly (2)\Monopoly\Monopoly\obj\Debug\Monopoly.Construir.resources
+C:\Users\Diogo Amorim\Desktop\Monopoly (2)\Monopoly\Monopoly\obj\Debug\Monopoly.FimJogo.resources
+C:\Users\Diogo Amorim\Desktop\Monopoly (2)\Monopoly\Monopoly\obj\Debug\Monopoly.Jogo.resources
+C:\Users\Diogo Amorim\Desktop\Monopoly (2)\Monopoly\Monopoly\obj\Debug\Monopoly.Mensagem.resources
+C:\Users\Diogo Amorim\Desktop\Monopoly (2)\Monopoly\Monopoly\obj\Debug\Monopoly.Menu.resources
+C:\Users\Diogo Amorim\Desktop\Monopoly (2)\Monopoly\Monopoly\obj\Debug\Monopoly.MostrarCartasSorte.resources
+C:\Users\Diogo Amorim\Desktop\Monopoly (2)\Monopoly\Monopoly\obj\Debug\Monopoly.Properties.Resources.resources
+C:\Users\Diogo Amorim\Desktop\Monopoly (2)\Monopoly\Monopoly\obj\Debug\Monopoly.Setup.resources
+C:\Users\Diogo Amorim\Desktop\Monopoly (2)\Monopoly\Monopoly\obj\Debug\Monopoly.Trocar.resources
+C:\Users\Diogo Amorim\Desktop\Monopoly (2)\Monopoly\Monopoly\obj\Debug\Monopoly.csproj.GenerateResource.Cache
+C:\Users\Diogo Amorim\Desktop\Monopoly (2)\Monopoly\Monopoly\obj\Debug\Monopoly.exe
+C:\Users\Diogo Amorim\Desktop\Monopoly (2)\Monopoly\Monopoly\obj\Debug\Monopoly.pdb
+C:\Users\Diogo Amorim\Google Drive\ECGM\Projeto 2D\FINAAAAALLL\Monopoly (2)\Monopoly\Monopoly\bin\Debug\Monopoly.exe.config
+C:\Users\Diogo Amorim\Google Drive\ECGM\Projeto 2D\FINAAAAALLL\Monopoly (2)\Monopoly\Monopoly\bin\Debug\Monopoly.exe
+C:\Users\Diogo Amorim\Google Drive\ECGM\Projeto 2D\FINAAAAALLL\Monopoly (2)\Monopoly\Monopoly\bin\Debug\Monopoly.pdb
+C:\Users\Diogo Amorim\Google Drive\ECGM\Projeto 2D\FINAAAAALLL\Monopoly (2)\Monopoly\Monopoly\obj\Debug\Monopoly.csprojResolveAssemblyReference.cache
+C:\Users\Diogo Amorim\Google Drive\ECGM\Projeto 2D\FINAAAAALLL\Monopoly (2)\Monopoly\Monopoly\obj\Debug\Monopoly.Construir.resources
+C:\Users\Diogo Amorim\Google Drive\ECGM\Projeto 2D\FINAAAAALLL\Monopoly (2)\Monopoly\Monopoly\obj\Debug\Monopoly.FimJogo.resources
+C:\Users\Diogo Amorim\Google Drive\ECGM\Projeto 2D\FINAAAAALLL\Monopoly (2)\Monopoly\Monopoly\obj\Debug\Monopoly.Jogo.resources
+C:\Users\Diogo Amorim\Google Drive\ECGM\Projeto 2D\FINAAAAALLL\Monopoly (2)\Monopoly\Monopoly\obj\Debug\Monopoly.Mensagem.resources
+C:\Users\Diogo Amorim\Google Drive\ECGM\Projeto 2D\FINAAAAALLL\Monopoly (2)\Monopoly\Monopoly\obj\Debug\Monopoly.Menu.resources
+C:\Users\Diogo Amorim\Google Drive\ECGM\Projeto 2D\FINAAAAALLL\Monopoly (2)\Monopoly\Monopoly\obj\Debug\Monopoly.MostrarCartasSorte.resources
+C:\Users\Diogo Amorim\Google Drive\ECGM\Projeto 2D\FINAAAAALLL\Monopoly (2)\Monopoly\Monopoly\obj\Debug\Monopoly.Properties.Resources.resources
+C:\Users\Diogo Amorim\Google Drive\ECGM\Projeto 2D\FINAAAAALLL\Monopoly (2)\Monopoly\Monopoly\obj\Debug\Monopoly.Setup.resources
+C:\Users\Diogo Amorim\Google Drive\ECGM\Projeto 2D\FINAAAAALLL\Monopoly (2)\Monopoly\Monopoly\obj\Debug\Monopoly.Trocar.resources
+C:\Users\Diogo Amorim\Google Drive\ECGM\Projeto 2D\FINAAAAALLL\Monopoly (2)\Monopoly\Monopoly\obj\Debug\Monopoly.csproj.GenerateResource.Cache
+C:\Users\Diogo Amorim\Google Drive\ECGM\Projeto 2D\FINAAAAALLL\Monopoly (2)\Monopoly\Monopoly\obj\Debug\Monopoly.exe
+C:\Users\Diogo Amorim\Google Drive\ECGM\Projeto 2D\FINAAAAALLL\Monopoly (2)\Monopoly\Monopoly\obj\Debug\Monopoly.pdb
+C:\Users\Diogo Amorim\Google Drive\ECGM\2ºano\1ºSemestre\Projeto 2D\FINAAAAALLL\Monopoly (2)\Monopoly\Monopoly\bin\Debug\Monopoly.exe.config
+C:\Users\Diogo Amorim\Google Drive\ECGM\2ºano\1ºSemestre\Projeto 2D\FINAAAAALLL\Monopoly (2)\Monopoly\Monopoly\bin\Debug\Monopoly.exe
+C:\Users\Diogo Amorim\Google Drive\ECGM\2ºano\1ºSemestre\Projeto 2D\FINAAAAALLL\Monopoly (2)\Monopoly\Monopoly\bin\Debug\Monopoly.pdb
+C:\Users\Diogo Amorim\Google Drive\ECGM\2ºano\1ºSemestre\Projeto 2D\FINAAAAALLL\Monopoly (2)\Monopoly\Monopoly\obj\Debug\Monopoly.csprojResolveAssemblyReference.cache
+C:\Users\Diogo Amorim\Google Drive\ECGM\2ºano\1ºSemestre\Projeto 2D\FINAAAAALLL\Monopoly (2)\Monopoly\Monopoly\obj\Debug\Monopoly.Construir.resources
+C:\Users\Diogo Amorim\Google Drive\ECGM\2ºano\1ºSemestre\Projeto 2D\FINAAAAALLL\Monopoly (2)\Monopoly\Monopoly\obj\Debug\Monopoly.FimJogo.resources
+C:\Users\Diogo Amorim\Google Drive\ECGM\2ºano\1ºSemestre\Projeto 2D\FINAAAAALLL\Monopoly (2)\Monopoly\Monopoly\obj\Debug\Monopoly.Jogo.resources
+C:\Users\Diogo Amorim\Google Drive\ECGM\2ºano\1ºSemestre\Projeto 2D\FINAAAAALLL\Monopoly (2)\Monopoly\Monopoly\obj\Debug\Monopoly.Mensagem.resources
+C:\Users\Diogo Amorim\Google Drive\ECGM\2ºano\1ºSemestre\Projeto 2D\FINAAAAALLL\Monopoly (2)\Monopoly\Monopoly\obj\Debug\Monopoly.Menu.resources
+C:\Users\Diogo Amorim\Google Drive\ECGM\2ºano\1ºSemestre\Projeto 2D\FINAAAAALLL\Monopoly (2)\Monopoly\Monopoly\obj\Debug\Monopoly.MostrarCartasSorte.resources
+C:\Users\Diogo Amorim\Google Drive\ECGM\2ºano\1ºSemestre\Projeto 2D\FINAAAAALLL\Monopoly (2)\Monopoly\Monopoly\obj\Debug\Monopoly.Properties.Resources.resources
+C:\Users\Diogo Amorim\Google Drive\ECGM\2ºano\1ºSemestre\Projeto 2D\FINAAAAALLL\Monopoly (2)\Monopoly\Monopoly\obj\Debug\Monopoly.Setup.resources
+C:\Users\Diogo Amorim\Google Drive\ECGM\2ºano\1ºSemestre\Projeto 2D\FINAAAAALLL\Monopoly (2)\Monopoly\Monopoly\obj\Debug\Monopoly.Trocar.resources
+C:\Users\Diogo Amorim\Google Drive\ECGM\2ºano\1ºSemestre\Projeto 2D\FINAAAAALLL\Monopoly (2)\Monopoly\Monopoly\obj\Debug\Monopoly.csproj.GenerateResource.Cache
+C:\Users\Diogo Amorim\Google Drive\ECGM\2ºano\1ºSemestre\Projeto 2D\FINAAAAALLL\Monopoly (2)\Monopoly\Monopoly\obj\Debug\Monopoly.exe
+C:\Users\Diogo Amorim\Google Drive\ECGM\2ºano\1ºSemestre\Projeto 2D\FINAAAAALLL\Monopoly (2)\Monopoly\Monopoly\obj\Debug\Monopoly.pdb

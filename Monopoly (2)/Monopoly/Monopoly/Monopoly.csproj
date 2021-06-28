@@ -1,0 +1,227 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3A10449D-07A0-4E69-912C-31AE8906B7AF}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Monopoly</RootNamespace>
+    <AssemblyName>Monopoly</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Classes\CartasSorte.cs" />
+    <Compile Include="Classes\Espacos.cs" />
+    <Compile Include="Classes\EspacosEspeciais.cs" />
+    <Compile Include="Classes\Imposto.cs" />
+    <Compile Include="Classes\Jogador.cs" />
+    <Compile Include="Classes\Propriedade.cs" />
+    <Compile Include="Classes\RetirarCartaSorte.cs" />
+    <Compile Include="Classes\Tabuleiro.cs" />
+    <Compile Include="Classes\TipoPropriedade.cs" />
+    <Compile Include="Construir.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Construir.Designer.cs">
+      <DependentUpon>Construir.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FimJogo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FimJogo.Designer.cs">
+      <DependentUpon>FimJogo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Jogo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Jogo.Designer.cs">
+      <DependentUpon>Jogo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mensagem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mensagem.Designer.cs">
+      <DependentUpon>Mensagem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu.Designer.cs">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MostrarCartasSorte.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MostrarCartasSorte.Designer.cs">
+      <DependentUpon>MostrarCartasSorte.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Setup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Setup.Designer.cs">
+      <DependentUpon>Setup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Trocar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Trocar.Designer.cs">
+      <DependentUpon>Trocar.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Construir.resx">
+      <DependentUpon>Construir.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FimJogo.resx">
+      <DependentUpon>FimJogo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Jogo.resx">
+      <DependentUpon>Jogo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mensagem.resx">
+      <DependentUpon>Mensagem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MostrarCartasSorte.resx">
+      <DependentUpon>MostrarCartasSorte.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Setup.resx">
+      <DependentUpon>Setup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Trocar.resx">
+      <DependentUpon>Trocar.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MonopolyLogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Jogadas\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\monopoly_original.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\green-house-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\red-house-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\22790935_1507698452647255_1483476998_o.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Player4Image.Image.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\monopoly_token_thimble.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\monopoly-game-piece-clipart-7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\xfjadsxlzhcnnkiijsly.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\22834643_1507698452647255_1483476998_n.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Player6Image.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Player7Image.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Player8Image.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\player1image.image.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\player2image.image.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\player3image.image.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\player4image.image1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\player5image.image.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\274273-2c0c8cb457885c7c15dbd6fcce45a273.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\green-house-icon-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\caixa_comunidade.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sorte.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
